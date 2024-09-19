@@ -59,11 +59,12 @@ There were **inconsistencies** in how penalties were applied across different ci
 
 **Excel**: For data management and analysis
 
-# _**Project Files**_
+## Project Files
 
-**Final Report (PDF)**: Detailed findings and recommendations for improving MotoGP steward decision-making.
+**[Final Report (PDF)](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/blob/main/MotoGP%20Consultancy%20Report.pdf)**: Detailed findings and recommendations for improving MotoGP steward decision-making.
 
-**Python Scripts**: Used for data processing, sentiment analysis, and generating visualizations.
+**[Python Scripts](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/tree/main/Python%20Scripts)**: Used for data processing, sentiment analysis, and generating visualizations.
+
 
 **MotoGP Stewards Decision Dataset**: Detailed information on the 2022 season's disciplinary decisions, including penalties and appeals.
 
