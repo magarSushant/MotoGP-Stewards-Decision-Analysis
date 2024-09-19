@@ -65,9 +65,13 @@ There were **inconsistencies** in how penalties were applied across different ci
 
 **Python Scripts**: Used for data processing, sentiment analysis, and generating visualizations.
 
-**Sentiment Datasets**: Created from Instagram comments, categorized by rider, team, media, and public sentiment.
-
 **MotoGP Stewards Decision Dataset**: Detailed information on the 2022 season's disciplinary decisions, including penalties and appeals.
+
+## _**Data Availability**_
+
+Due to confidentiality and privacy concerns, the original dataset used in this analysis cannot be made publicly available. The dataset contains sensitive information, which is protected under a non-disclosure agreement (NDA).
+
+If you'd like to replicate the analysis, you can use a similar publicly available dataset or generate synthetic data following the structure outlined in the code. Detailed instructions for replicating the analysis with an alternative dataset are included in the repository.
 
 # _**How to Use This Repository**_
 
