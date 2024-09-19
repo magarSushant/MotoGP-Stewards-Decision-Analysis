@@ -9,64 +9,63 @@ This project critically examines the consistency, transparency, and stakeholder 
 
 The main objectives of the project are to:
 
-_Identify contentious decisions that sparked debate among stakeholders._
+- _Identify contentious decisions that sparked debate among stakeholders._
 
-_Analyze the consistency of sanctions for similar infractions across different classes._
+- _Analyze the consistency of sanctions for similar infractions across different classes._
 
-_Evaluate stakeholder sentiment through Instagram, focusing on riders, teams, media, and fans._
+- _Evaluate stakeholder sentiment through Instagram, focusing on riders, teams, media, and fans._
 
-_Provide recommendations to improve the transparency, consistency, and fairness of the Stewards Panel's decisions._
+- _Provide recommendations to improve the transparency, consistency, and fairness of the Stewards Panel's decisions._
 
 # _**Methodology**_
 
 The project uses a mixed-methods approach:
 
-**Descriptive Analytics**: To identify key trends and patterns in rule enforcement and penalty issuance.
+- **Descriptive Analytics**: To identify key trends and patterns in rule enforcement and penalty issuance.
 
-**Diagnostic Analytics**: To explore the underlying causes of inconsistencies in penalty decisions.
+- **Diagnostic Analytics**: To explore the underlying causes of inconsistencies in penalty decisions.
 
-**Sentiment Analysis**: Using tools like BERT, Instagram comments were analyzed to gauge public sentiment on key decisions.
+- **Sentiment Analysis**: Using tools like BERT, Instagram comments were analyzed to gauge public sentiment on key decisions.
 
-**Data Sources**: The analysis used the official MotoGP Stewards decision dataset and Instagram data for sentiment evaluation.
+- **Data Sources**: The analysis used the official MotoGP Stewards decision dataset and Instagram data for sentiment evaluation.
 
 # _**Key Findings**_
 
-**Irresponsible Riding**accounted for over two-thirds of all infractions, with "Long Lap Penalties" being the most common sanction.
+- **Irresponsible Riding**accounted for over two-thirds of all infractions, with "Long Lap Penalties" being the most common sanction.
 
-There were **inconsistencies** in how penalties were applied across different circuits and classes, raising concerns about fairness.
+- There were **inconsistencies** in how penalties were applied across different circuits and classes, raising concerns about fairness.
 
-**Riders** expressed the most **negative sentiment**, particularly in cases involving severe penalties. Neutral sentiment dominated media and public opinions, but negative reactions were more prevalent for severe sanctions.
+- **Riders** expressed the most **negative sentiment**, particularly in cases involving severe penalties. Neutral sentiment dominated media and public opinions, but negative reactions were more prevalent for severe sanctions.
 
 # _**Recommendations**_
 
-**Standardize Penalty Guidelines**: Develop clearer, more transparent rules to ensure consistent enforcement across classes and circuits.
+- **Standardize Penalty Guidelines**: Develop clearer, more transparent rules to ensure consistent enforcement across classes and circuits.
 
-**Enhance Rider Education**: Implement training programs, particularly for younger riders in Moto3, to reduce infractions.
+- **Enhance Rider Education**: Implement training programs, particularly for younger riders in Moto3, to reduce infractions.
 
-**Improve Communication**: Strengthen communication strategies between the Stewards Panel, riders, teams, and the public to clarify the rationale behind penalties.
+- **Improve Communication**: Strengthen communication strategies between the Stewards Panel, riders, teams, and the public to clarify the rationale behind penalties.
 
-**Tailor Regulatory Approaches**: Develop class- and circuit-specific regulations to ensure fairness in unique racing contexts.
+- **Tailor Regulatory Approaches**: Develop class- and circuit-specific regulations to ensure fairness in unique racing contexts.
 
-**Engage with Media**: Work proactively with media outlets to ensure balanced reporting and reduce negative perceptions of penalties.
+- **Engage with Media**: Work proactively with media outlets to ensure balanced reporting and reduce negative perceptions of penalties.
 
 # _**Technologies Used**_
 
-**Python**: For data processing, sentiment analysis (BERT), and visualization.
+- **Python**: For data processing, sentiment analysis (BERT), and visualization.
 
-**Instagram**: As the primary source for stakeholder sentiment analysis.
+- **Instagram**: As the primary source for stakeholder sentiment analysis.
 
-**ExportComment**: Used for scraping Instagram comments.
+- **ExportComment**: Used for scraping Instagram comments.
 
-**Excel**: For data management and analysis
+- **Excel**: For data management and analysis
 
 ## Project Files
 
-**[Final Report (PDF)](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/blob/main/MotoGP%20Consultancy%20Report.pdf)**: Detailed findings and recommendations for improving MotoGP steward decision-making.
+- **[Final Report (PDF)](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/blob/main/MotoGP%20Consultancy%20Report.pdf)**: Detailed findings and recommendations for improving MotoGP steward decision-making.
 
-**[Python Scripts](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/tree/main/Python%20Scripts)**: Used for data processing, sentiment analysis, and generating visualizations.
+- **[Python Scripts](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/tree/main/Python%20Scripts)**: Used for data processing, sentiment analysis, and generating visualizations.
 
-
-**MotoGP Stewards Decision Dataset**: Detailed information on the 2022 season's disciplinary decisions, including penalties and appeals.
+- **MotoGP Stewards Decision Dataset**: Detailed information on the 2022 season's disciplinary decisions, including penalties and appeals.
 
 # _**Data Availability**_
 
@@ -76,12 +75,13 @@ If you'd like to replicate the analysis, you can use a similar publicly availabl
 
 # _**How to Use This Repository**_
 
-**Download the Python Scripts**: Follow the steps to replicate the sentiment analysis and data processing.
+- **Download the Python Scripts**: Follow the steps to replicate the sentiment analysis and data processing.
 
-**Consult the Report**: Access the PDF report for a comprehensive breakdown of the analysis and recommendations.
+- **Consult the Report**: Access the PDF report for a comprehensive breakdown of the analysis and recommendations.
 
-**Examine the Datasets**: Ensure the duplicate relevant datasets are properly placed in relevant folders before running the scripts.
+- **Examine the Datasets**: Ensure the duplicate relevant datasets are properly placed in relevant folders before running the scripts.
 
 # _**Disclaimer**_
-This project was created for academic purposes. All datasets, including Instagram comments, were collected from publicly available sources.
+This project was created for academic purposes. All datasets, including Instagram comments, were collected from publicly available sources.The [Final Report (PDF)](https://github.com/magarSushant/MotoGP-Stewards-Decision-Analysis/blob/main/MotoGP%20Consultancy%20Report.pdf) has been modified to remove confidential and sensitive information. The data used in the analysis is not publicly available due to privacy concerns, and all personal or client-specific information has been redacted for confidentiality.
+
 
