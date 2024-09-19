@@ -67,7 +67,7 @@ There were **inconsistencies** in how penalties were applied across different ci
 
 **MotoGP Stewards Decision Dataset**: Detailed information on the 2022 season's disciplinary decisions, including penalties and appeals.
 
-## _**Data Availability**_
+# _**Data Availability**_
 
 Due to confidentiality and privacy concerns, the original dataset used in this analysis cannot be made publicly available. The dataset contains sensitive information, which is protected under a non-disclosure agreement (NDA).
 
@@ -76,8 +76,10 @@ If you'd like to replicate the analysis, you can use a similar publicly availabl
 # _**How to Use This Repository**_
 
 **Download the Python Scripts**: Follow the steps to replicate the sentiment analysis and data processing.
+
 **Consult the Report**: Access the PDF report for a comprehensive breakdown of the analysis and recommendations.
-**Examine the Datasets**: Ensure the datasets are properly placed in relevant folders before running the scripts.
+
+**Examine the Datasets**: Ensure the duplicate relevant datasets are properly placed in relevant folders before running the scripts.
 
 # _**Disclaimer**_
 This project was created for academic purposes. All datasets, including Instagram comments, were collected from publicly available sources.
